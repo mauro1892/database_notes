@@ -1,5 +1,5 @@
-CREATE DATABASE project2_notes;
-USE project2_notes;
+CREATE DATABASE database_notes;
+USE database_notes;
 
 CREATE TABLE `user` (
    `id` INT NOT NULL AUTO_INCREMENT,
